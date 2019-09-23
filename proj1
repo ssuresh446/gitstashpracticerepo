@@ -4,6 +4,12 @@ Modified to use git stash command
 
 commit > git stash > edit > push > git stash pop > ll
 
+<<<<<<< HEAD
 added 4th line in 2 directory
 
 added second time, should be fail
+=======
+added 4th line in 2 director
+
+added first time, should be successy
+>>>>>>> d5dbbda278ae1c50f65562d0c76f0c80ba1c6bbe
