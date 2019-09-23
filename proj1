@@ -2,4 +2,5 @@ This is to learn git stash command, commiting first time
 
 Modified to use git stash command
 
+commit > git stash > edit > push > git stash pop > ll
 
