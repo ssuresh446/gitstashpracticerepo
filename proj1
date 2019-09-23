@@ -4,3 +4,4 @@ Modified to use git stash command
 
 commit > git stash > edit > push > git stash pop > ll
 
+added 4th line in 2 directory
